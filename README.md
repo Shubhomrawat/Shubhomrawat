@@ -34,7 +34,7 @@ I'm passionate about **penetration testing**, **cybersecurity analytics** , and 
 |                                                         |                                    |                 |
 |B.E. Computer Science  (Honors in Cybersecurity)         | Fr. C. Rodrigues Institute, Mumbai |    2020-2024    | 
 
---
+---
 
 ### 👨‍💻 Portfolio  
 Check out my personal portfolio website 👉 [https://shubhom-rawat-27.netlify.app/](/)
