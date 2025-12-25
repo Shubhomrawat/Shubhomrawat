@@ -77,7 +77,11 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
 |----------|----------|----------|-------------|------|--------------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell Script" alt="Shell Script" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" title="Rust" alt="Rust" width="55" height="55"/> |
 
-  
+### Cybersecurity Tools
+ 
+| Metasploit | Wireshark | Burpsuite |  Netcat     |  Nmap    |  Hydra  | Nessus |
+|------------|-----------|-----------|-------------|----------|---------|--------|
+|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9YJwiFJnjTtjp3XcqCWZqe9y2UoVVIK8OQ&s" alt="msf" width="85" height="55" />|<img src="https://infosecmonkey.com/wp-content/uploads/2020/03/wireshark-icon2.png" alt="wsh" width="55" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucxAAWpJ2WiAbgfoVTfL00BvgsEhk-BJDRg&s" alt="burp" width="85" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKdKK4SMgbz2LyMrTAgULMY65MGZJh5PR3rg&s" alt="netcat" width="55" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiY7qk7jLVBW2MLklv7DDQqDA0aSKfeCZDaw&s" alt="nmap" width="55" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECy8NPZexIFqhP0NWaiY34WDwsWZ_2MdcXkE_Fm4jpoWluAdSNUkwzfCGRSTzgJeAV_U&usqp=CAU" alt="" width="55" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHBi87_fhtbUqAk0f0uA_aP-5kNQFwazfDA&s" alt="Nessus" width="55" height="55" />|
 
 ### My tools for Data Manipulation & Visualisation:
 
@@ -93,13 +97,6 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
 |--------|------|------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows XP" alt="Windows XP" width="55" height="55"/> | <img 
 
-
-
-### Cybersecurity Tools
- 
-| Metasploit | Wireshark | Burpsuite |  Netcat     |  Nmap    |  Hydra  | Nessus |
-|------------|-----------|-----------|-------------|----------|---------|--------|
-|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9YJwiFJnjTtjp3XcqCWZqe9y2UoVVIK8OQ&s" alt="msf" width="85" height="55" />|<img src="https://infosecmonkey.com/wp-content/uploads/2020/03/wireshark-icon2.png" alt="wsh" width="55" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucxAAWpJ2WiAbgfoVTfL00BvgsEhk-BJDRg&s" alt="burp" width="85" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKdKK4SMgbz2LyMrTAgULMY65MGZJh5PR3rg&s" alt="netcat" width="55" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiY7qk7jLVBW2MLklv7DDQqDA0aSKfeCZDaw&s" alt="nmap" width="55" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECy8NPZexIFqhP0NWaiY34WDwsWZ_2MdcXkE_Fm4jpoWluAdSNUkwzfCGRSTzgJeAV_U&usqp=CAU" alt="" width="55" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHBi87_fhtbUqAk0f0uA_aP-5kNQFwazfDA&s" alt="Nessus" width="55" height="55" />|
 
 
 
