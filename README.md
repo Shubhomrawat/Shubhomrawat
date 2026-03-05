@@ -12,7 +12,7 @@ I'm passionate about **penetration testing**, **cybersecurity analytics** , and 
   <a href="https://www.linkedin.com/in/shubhom-rawat-45a2b522b/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/SaurabhKokate20?t=D-Y3vi2HekriAXHRTY3I3Q&s=08">
+  <a href="">
     <img src="https://img.shields.io/badge/X-%2300A4E4.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
   </a>
   <a href="https://www.facebook.com/share/A8tKsYm5D3DDvP1V/?mibextid=qi2Omg">
@@ -32,7 +32,7 @@ I'm passionate about **penetration testing**, **cybersecurity analytics** , and 
 |---------------------------------------------------------|------------------------------------|-----------------|
 | M.S. Cybersecurity Analytics and Operations             | The Pennsylvania State University  |    2024-2026    |                 
 |                                                         |                                    |                 |
-|B.E. Computer Science  (Honors in Cybersecurity)         | Fr. C. Rodrigues Institute, Mumbai |    2020-2024    | 
+|B.E. Computer Science  (Honors in Cybersecurity)         |        Mumbai University           |    2020-2024    | 
 
 ---
 
