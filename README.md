@@ -27,7 +27,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Shubhomrawat&label=PROFILE+VIEWS&color=00FF9C&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhom-rawat-45a2b522b/)
-[![Instagram](https://img.shields.io/badge/shubhomrawat27__E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shubhomrawat27)
+[![Instagram](https://img.shields.io/badge/shubhomrawat__101-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/0day.xploit_10)
 
 </div>
 
@@ -150,8 +150,10 @@ PORT        STATE    SERVICE
 22/tcp      open     penetration-testing
 80/tcp      open     web-app-security
 443/tcp     open     malware-analysis
+514/tcp     open     siem-log-analysis        [Splunk | ELK]
 8080/tcp    open     ml-threat-detection
 9000/tcp    open     security-operations
+9200/tcp    open     elasticsearch-hunting
 ```
 
 ### Languages & Scripting
@@ -163,16 +165,31 @@ PORT        STATE    SERVICE
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-### Offensive & Defensive Security Tools
+### 🔴 Offensive Security
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004088?style=flat-square&logo=nmap&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-CC0000?style=flat-square&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=flat-square&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-2D2D2D?style=flat-square&logoColor=00FF9C)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1A1A2E?style=flat-square&logoColor=00FF9C)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-4B0082?style=flat-square&logoColor=white)
+
+### 🔵 Defensive Security & SOC
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=00FF9C)
+![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=flat-square&logo=kibana&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-FF0000?style=flat-square&logoColor=white)
 ![YARA](https://img.shields.io/badge/YARA-FF6B35?style=flat-square&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-6A0DAD?style=flat-square&logoColor=white)
 
 ### ML / Data Science
 
