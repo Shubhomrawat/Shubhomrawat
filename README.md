@@ -1,107 +1,181 @@
-# 👋 Hi! I'm Shubhom Rawat, a Cybersecurity Enthusiast and Tech Explorer
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:007CF0&height=200&section=header&text=Shubhom%20Rawat&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-
-## About Me
-
-I'm passionate about **penetration testing**, **cybersecurity analytics** , and **malware analysis** . With a strong foundation in network management, software security, and web application security, I aim to contribute cutting-edge solutions to today's digital challenges. I'm currently pursuing my Master’s in Cybersecurity Analytics and Operations at The Pennsylvania State University. In my free time, I love developing secure applications, participating in hackathons, and working on real-world cybersecurity projects.
-
----
-## 🔗 Connect with Me
+# 🛡️ Shubhom Rawat | Cybersecurity Researcher | Security Engineer
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubhom-rawat-45a2b522b/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/X-%2300A4E4.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
-  </a>
-  <a href="https://www.facebook.com/share/A8tKsYm5D3DDvP1V/?mibextid=qi2Omg">
-    <img src="https://img.shields.io/badge/Facebook-%234E69A2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://www.instagram.com/0day.xploit_101?igsh=MTgyNmdqZ3RoejI4NA==">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=28&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher;Penetration+Tester;Malware+Analysis+Enthusiast;Security+Engineer+in+the+Making;AI+for+Cybersecurity;Building+Threat+Detection+Systems" />
+
 </p>
 
+---
+
+# 👨‍💻 About Me
+
+I’m **Shubhom Rawat**, a cybersecurity graduate student at **Pennsylvania State University** specializing in:
+
+🔹 Penetration Testing  
+🔹 Malware Analysis  
+🔹 Security Operations (SOC)  
+🔹 Machine Learning for Threat Detection  
+🔹 Web Application Security  
+
+I enjoy **breaking systems to understand them better and building defenses to protect them.**
+
+Currently building:
+
+⚡ **ThreatLens – ML Based Suspicious Login Detection System**  
+⚡ **Malware Analysis Sandbox**  
+⚡ **AI-powered Cyber Threat Detection Systems**
 
 ---
 
-## 📚 Education
+# 🎓 Education
 
-|       Degree                                            |   Institution                      |    Dates        | 
-|---------------------------------------------------------|------------------------------------|-----------------|
-| M.S. Cybersecurity Analytics and Operations             | The Pennsylvania State University  |    2024-2026    |                 
-|                                                         |                                    |                 |
-|B.E. Computer Science  (Honors in Cybersecurity)         |        Mumbai University           |    2020-2024    | 
+**M.S. Cybersecurity Analytics and Operations**  
+Pennsylvania State University  
+📅 2024 – 2026  
 
----
-
-### 👨‍💻 Portfolio  
-Check out my personal portfolio website 👉 [https://shubhom-rawat-27.netlify.app/](/)
-
-
-## 🌐 Working on: 
-
-- Developing Malware Analysis Sandbox .
-- Enhancing malware analysis techniques.
-- Building real-time threat detection systems.
-- Strengthening AI-powered cybersecurity solutions.
-
-## My Projects 🚀
-
-**Malware Analysis Sandbox**: Analyzed 100+ malware samples using Cuckoo Sandbox and Yara rules; automated threat blocking, reducing incident response time by 20%.- Still Working [GitHub Repository]()
-
-**Threat Detection Using ML**: A machine learning-based system that detects malware by analyzing network traffic patterns using models like Random Forest and Decision Tree Algorith, achieving high accuracy and minimizing false positives. [GitHub Repository](https://github.com/Shubhomrawat/Malware-Detection-Using-ML)
-
-**Net-Install**: Developed a tool to deploy applications from a single PC to multiple systems using ZeroTier-encrypted virtual networks.. [GitHub Repository](https://github.com/NetInstall1)
-
-**ZenVerse**: A communication platform developed in Vue.js, supporting real-time messaging and collaboration, forked and enhanced for seamless communication experiences across educational and corporate environments. [GitHub Repository](https://github.com/Shubhomrawat/ZenVerse)
-
-**Aushadh-setu**: A healthcare platform built using JavaScript to connect patients and pharmacies, streamlining prescription management and improving access to medical supplies in real-time. [GitHub Repository](https://github.com/Shubhomrawat/aushadh-setu)
-
-**IEEE-website-1**: A dynamic and responsive event website designed for IEEE activities Student Chapter 2023-24, built with React.js, and deployed on GitHub Pages to showcase events, announcements, and updates. [GitHub Repository](https://github.com/Shubhomrawat/IEEE-website-1)
-
-**Alumni-m-system**: A Java-based alumni management system helping universities maintain a robust network with their graduates through streamlined data management and communication features. [GitHub Repository](https://github.com/Shubhomrawat/Alumni-m-system)
-
+**B.E. Computer Science (Honors in Cybersecurity)**  
+Mumbai University  
+📅 2020 – 2024  
 
 ---
 
-Feel free to connect with me and follow my journey in cybersecurity and tech!
-## Languages and Tools 
-<div>
+# 🚀 Featured Projects
 
-
-###  Programming Languages Languages:
-
-| Python3  |     C    |    JS    |  Powershell | C++  | Shell Script |  
-|----------|----------|----------|-------------|------|--------------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell Script" alt="Shell Script" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" title="Rust" alt="Rust" width="55" height="55"/> |
-
-### Cybersecurity Tools
- 
-| Metasploit | Wireshark | Burpsuite |  Netcat     |  Nmap    |  Hydra  | Nessus |
-|------------|-----------|-----------|-------------|----------|---------|--------|
-|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9YJwiFJnjTtjp3XcqCWZqe9y2UoVVIK8OQ&s" alt="msf" width="85" height="55" />|<img src="https://infosecmonkey.com/wp-content/uploads/2020/03/wireshark-icon2.png" alt="wsh" width="55" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucxAAWpJ2WiAbgfoVTfL00BvgsEhk-BJDRg&s" alt="burp" width="85" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKdKK4SMgbz2LyMrTAgULMY65MGZJh5PR3rg&s" alt="netcat" width="55" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiY7qk7jLVBW2MLklv7DDQqDA0aSKfeCZDaw&s" alt="nmap" width="55" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECy8NPZexIFqhP0NWaiY34WDwsWZ_2MdcXkE_Fm4jpoWluAdSNUkwzfCGRSTzgJeAV_U&usqp=CAU" alt="" width="55" height="55" />|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHBi87_fhtbUqAk0f0uA_aP-5kNQFwazfDA&s" alt="Nessus" width="55" height="55" />|
-
-### My tools for Data Manipulation & Visualisation:
-
-| Conda    | Jupyter  | Panda    | MySQL    | Postgres | SQLite    | Plotly   | Matpltlib |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Panda" alt="Panda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
-
-  
-
-### OS:
-
-| Ubuntu | Kali | Windows XP | 
-|--------|------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows XP" alt="Windows XP" width="55" height="55"/> | <img 
-
-
-
+### 🔬 Malware Analysis Sandbox
+Dynamic malware analysis environment using **Cuckoo Sandbox and YARA rules** to analyze and classify malware behavior.
 
 ---
 
+### 🧠 Malware Detection Using Machine Learning
+Machine learning system detecting malware through **network traffic analysis** using **Random Forest & Decision Trees**.
 
-Feel free to connect and collaborate with me on this exciting journey in cybersecurity and technology! 🚀
+🔗 https://github.com/Shubhomrawat/Malware-Detection-Using-ML
 
+---
+
+### 🌐 NetInstall
+Automated deployment tool enabling **application installation across multiple machines** using **ZeroTier encrypted virtual networks**.
+
+🔗 https://github.com/NetInstall1
+
+---
+
+### 💬 ZenVerse
+Secure communication platform supporting **real-time messaging and collaboration**.
+
+🔗 https://github.com/Shubhomrawat/ZenVerse
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,bash,powershell" />
+
+</p>
+
+---
+
+## Cybersecurity Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git" />
+
+</p>
+
+Additional Tools:
+
+Burp Suite • OWASP ZAP • Nmap • Metasploit • Hydra • Wireshark • Nessus
+
+---
+
+## Data Science & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
+
+</p>
+
+Libraries:
+
+Pandas • NumPy • Matplotlib • Plotly
+
+---
+
+# 💻 Operating Systems
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhomrawat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhomrawat&layout=compact&langs_count=8&theme=radical"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhomrawat&theme=radical" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shubhom-rawat-45a2b522b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/0day.xploit_101">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/A8tKsYm5D3DDvP1V/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shubhomrawat&label=Profile%20Views&color=blue&style=flat" />
+
+</p>
+
+---
+
+# ⭐ Fun Fact
+
+> “The best defense comes from understanding how attackers think.”
+
+---
+
+⭐ If you like my work, **consider starring my repositories!**
