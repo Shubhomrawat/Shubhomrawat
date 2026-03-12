@@ -1,13 +1,36 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:007CF0&height=200&section=header&text=Shubhom%20Rawat&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<div align="center">
 
-# 🛡️ Shubhom Rawat | Cybersecurity Researcher | Security Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0F2027&height=220&section=header&text=Shubhom%20Rawat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20|%20Penetration%20Testing%20|%20Threat%20Detection%20|%20Malware%20Analysis&descAlignY=60&descSize=16" />
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=1000&lines=Cybersecurity+Graduate+Student+at+Penn+State;Penetration+Tester;SOC+%26+Threat+Detection+Enthusiast;Malware+Analysis+Explorer;Building+AI+Powered+Cybersecurity+Systems;Always+Learning+Always+Building+Always+Defending" />
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=28&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher;Penetration+Tester;Malware+Analysis+Enthusiast;Security+Engineer+in+the+Making;AI+for+Cybersecurity;Building+Threat+Detection+Systems" />
+</div>
 
-</p>
+---
 
+# 🧑‍💻 Terminal
+
+```bash
+> whoami
+Shubhom Rawat
+
+> role
+Cybersecurity Graduate Student | Security Researcher
+
+> university
+Pennsylvania State University
+
+> interests
+Penetration Testing
+Malware Analysis
+Web Security
+Threat Detection
+Machine Learning for Cybersecurity
+
+> currently_building
+ThreatLens - Suspicious Login Detection
+Malware Analysis Sandbox
+AI-driven Threat Detection
 ---
 
 # 👨‍💻 About Me
@@ -82,13 +105,8 @@ Secure communication platform supporting **real-time messaging and collaboration
 
 ---
 
-## Cybersecurity Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git" />
-
-</p>
+Cybersecurity Tools
+<p align="center"> Burp Suite • OWASP ZAP • Nessus • Nmap • Wireshark • Metasploit • Hydra • John the Ripper • Volatility • Ghidra </p>
 
 Additional Tools:
 
@@ -161,7 +179,9 @@ Pandas • NumPy • Matplotlib • Plotly
 </p>
 
 ---
+<p align="center"> <img src="https://raw.githubusercontent.com/Shubhomrawat/Shubhomrawat/output/snake.svg"/> </p>
 
+---
 # 👀 Profile Views
 
 <p align="center">
@@ -169,6 +189,11 @@ Pandas • NumPy • Matplotlib • Plotly
 <img src="https://komarev.com/ghpvc/?username=Shubhomrawat&label=Profile%20Views&color=blue&style=flat" />
 
 </p>
+
+---
+
+🏆 Certifications
+<p align="center"> <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white"/> <img src="https://img.shields.io/badge/eJPT-Junior%20Penetration%20Tester-darkred?style=for-the-badge"/> <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-black?style=for-the-badge"/> </p>
 
 ---
 
