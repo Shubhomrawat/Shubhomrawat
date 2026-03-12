@@ -27,7 +27,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Shubhomrawat&label=PROFILE+VIEWS&color=00FF9C&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhom-rawat-45a2b522b/)
-[![Instagram](https://img.shields.io/badge/0day.xploit__101-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/0day.xploit_101)
+[![Instagram](https://img.shields.io/badge/0day.xploit__101-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shubhomrawat27)
 
 </div>
 
