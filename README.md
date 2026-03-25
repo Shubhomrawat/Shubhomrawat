@@ -281,6 +281,8 @@ Hint: python3 -c "
 
 ---
 
+<div align="center">
+
 ## `$ cat /etc/motd`
 
 ```
@@ -290,8 +292,8 @@ Hint: python3 -c "
 ║   ┌─────────────────────────────────────────────────────────┐   ║
 ║   │  Recon → Weaponize → Deliver → Exploit → Install →     │   ║
 ║   │  C2 → Exfiltrate                                        │   ║
-║   │                  ↑                                      │   ║
-║   │             [I STOP THIS]                               │   ║
+║   │                        ↑                                │   ║
+║   │                  [I STOP THIS]                          │   ║
 ║   └─────────────────────────────────────────────────────────┘   ║
 ║                                                                  ║
 ║   "In cyberspace, the best offense is a better defense."        ║
@@ -304,26 +306,20 @@ Hint: python3 -c "
 
 ## `$ ./connect.sh`
 
-<div align="center">
-
 | Platform | Handle |
 |----------|--------|
 | 🔗 LinkedIn | [shubhom-rawat-45a2b522b](https://www.linkedin.com/in/shubhom-rawat-45a2b522b/) |
 | 📸 Instagram | [@0day.xploit_101](https://www.instagram.com/0day.xploit_101) |
 | 📘 Facebook | [Profile](https://www.facebook.com/share/A8tKsYm5D3DDvP1V/) |
 
-</div>
-
 ---
-
-<div align="center">
 
 ```
 [+] Profile loaded successfully.
-[+] Threat level: RESEARCHER
-[+] Clearance: OPEN SOURCE
-[>] If you found something interesting — drop a ⭐
-[>] If you want to collaborate — ping me.
+[+] Threat level : RESEARCHER
+[+] Clearance    : OPEN SOURCE
+[>] Found something interesting? Drop a ⭐
+[>] Want to collaborate? Ping me.
 [>] Remember: security is not a product. It's a process.
 ```
 
