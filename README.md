@@ -315,12 +315,13 @@ Hint: python3 -c "
 ---
 
 ```
-                       [+] Profile loaded successfully.
-                       [+] Threat level : RESEARCHER
-                       [+] Clearance    : OPEN SOURCE
-                       [>] Found something interesting? Drop a ⭐
-                       [>] Want to collaborate? Ping me.
-                       [>] Remember: security is not a product. It's a process.
+               [+] Profile loaded successfully.
+               [+] Threat level : RESEARCHER
+               [+] Clearance    : OPEN SOURCE
+               [>] Found something interesting? Drop a ⭐
+               [>] Want to collaborate? Ping me.
+
+ [>] Remember: security is not a product. It's a process.
 ```
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00FF9C&height=120&section=footer)
